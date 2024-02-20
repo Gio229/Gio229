@@ -4,8 +4,8 @@ I'm a passionate web and mobile developer. I love exploring new technologies and
 
 ## 🌱 I'm currently learning
 
-- [Python](link)
-- [React](link)
+- [Python](https://www.python.org/)
+- [React](https://react.dev/)
 
 ## 📫 How to reach me
 
